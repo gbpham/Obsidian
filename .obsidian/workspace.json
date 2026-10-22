@@ -254,6 +254,18 @@
             }
           },
           {
+            "id": "5945d4063c2b472c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
+          },
+          {
             "id": "bc24665023bc3c7f",
             "type": "leaf",
             "state": {
@@ -290,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -310,7 +322,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -473,7 +487,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "My Brain/1. ARCHIEVED/Camera Skill/List máy ảnh cũ.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -501,7 +514,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of List máy ảnh cũ"
+              "title": "Local graph"
             }
           }
         ]
@@ -547,10 +560,11 @@
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "b5468365f3dd3444",
+  "active": "5945d4063c2b472c",
   "lastOpenFiles": [
     "My Brain/1. ARCHIEVED/Camera Skill/Chế độ chụp.md",
     "My Brain/1. ARCHIEVED/Camera Skill/Bố cục.md",
